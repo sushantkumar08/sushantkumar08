@@ -2,7 +2,7 @@
 * 👀 I’m interested in Data Science, Data Analytics, and Business Analytics.
 * 🌱 I have 1+ year of exp. in Data field.
 * 📫 You can reach me via mail: imsushant.k8@gmail.com
-* Tech Stack :
+* 🛠️ Tech Stack :
   
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -12,7 +12,6 @@
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=data&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-00599C?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge&logo=clean-code&logoColor=white)
-(https://img.shields.io/badge/Problem%20Solving-00897B?style=for-the-badge&logo=thinkific&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
